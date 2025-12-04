@@ -329,6 +329,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   minimal-mistakes-jekyll
+  webrick (~> 1.9)
 
 BUNDLED WITH
   4.0.0
