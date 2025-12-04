@@ -26,6 +26,7 @@ github_username: caseycronyn
 minimal_mistakes_skin: default
 search: false
 
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
