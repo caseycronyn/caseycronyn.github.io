@@ -1,7 +1,6 @@
 ---
 permalink: /skills/
 title: "Skills"
-toc: true
 ---
 ## Programming Languages		
 - Python
