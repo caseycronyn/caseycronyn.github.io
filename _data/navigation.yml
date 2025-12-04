@@ -1,27 +1,8 @@
-# main:
-  # - title: "Posts"
-  #   url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
-  # - title: "Projects"
-  #   url: /#projects
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "Skills"
+    url: /skills/
+  - title: "Background"
+    url: /background/
 
-docs:
-  - title: Table of Contents
-    children:
-      - title: "About me"
-        url: "/#about-me"
-      - title: "Education"
-        url: /#education
-      - title: "Projects"
-        url: /#projects
-      - title: "Programming Languages"
-        url: "/#programming-languages"
-      - title: "Tools And Frameworks"
-        url: "/#tools-and-frameworks"
-      - title: "Work"
-        url: "/#work"
-      - title: "Professional Development"
-        url: "/#professional-development"

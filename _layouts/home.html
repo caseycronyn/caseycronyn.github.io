@@ -4,8 +4,8 @@ layout: archive
 
 {{ content }}
 
-{%- capture home_md -%}
-    {%- include cv.md -%}
-{%- endcapture -%}
+<h1> Home </h1>
+<p> Welcome to my portfolio website. Please have a look around and browse the
+  tabs at the top of the page. <p>
 
-{{ home_md | markdownify }}
+{% include paginator.html %}
