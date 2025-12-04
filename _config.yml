@@ -59,13 +59,13 @@ plugins:
 author:
   name   : "Casey Cronyn"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : \"Computer Science MSc graduate \| Software Engineer\"
+  bio    : 'Computer Science MSc graduate \| Software Engineer'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/caseycronyn"
     - label: "LinkedIn"
-      icon: "fab fa-fw linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/casey-cronyn/"
 
 footer:
@@ -74,7 +74,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/caseycronyn"
     - label: "LinkedIn"
-      icon: "fab fa-fw linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/casey-cronyn/"
 
 defaults:
