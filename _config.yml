@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Casey Cronyn"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Computer Science MSc graduate | Software Engineer"
+  bio    : \"Computer Science MSc graduate \| Software Engineer\"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
