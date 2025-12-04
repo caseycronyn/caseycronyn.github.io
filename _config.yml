@@ -16,7 +16,7 @@ plugins:
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: About
+title: Portfolio
 email: casey.cronyn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -62,7 +62,9 @@ plugins:
 author:
   name   : "Casey Cronyn"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : 'Computer Science MSc graduate \| Software Engineer'
+  bio    : 'Computer Science MSc Graduate, Software Engineer'
+  location : "London, UK"
+  email : "casey.cronyn@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

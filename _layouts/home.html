@@ -1,0 +1,11 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{%- capture home_md -%}
+    {%- include cv.md -%}
+{%- endcapture -%}
+
+{{ home_md | markdownify }}
